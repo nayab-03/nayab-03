@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @nayab-03
-- 👀 I’m interested in data science learning
-- 🌱 I’m currently learning python 
+- 👋 Hi, I’m @nayab
+- 👀 I’m interested in data visualization with Python.
+- 🌱 Exploring the intersection of Python and Mathematics
 - 📫 Feel free to contact me on my email nayabperween003@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Good at singing (in bathroom )
